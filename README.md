@@ -40,3 +40,5 @@ Leezer - A mini playlist creator
 
 ## Deploy
 - https://leezer-vgutierrez.surge.sh/
+- ![image](https://user-images.githubusercontent.com/62355596/161099253-bb82b36c-d241-4fca-bbfd-d5e2060a4aee.png)
+
